@@ -1,16 +1,16 @@
 # word_puzzle
 
-# Install Python3
-
-# Install virtualenv 
+# Installations
+    install Python3
+    install virtualenv 
 
 # clone Repository
+    git clone https://github.com/abduljabbarbcs/word_puzzle.git
     cd word_puzzle
     
 # Create virtual environment using python3 
 
-    virtualenv -p python3 .venv
-    
+    virtualenv -p python3 .venv 
     source .venv/bin/activate
     
 # Install requirements
